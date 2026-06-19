@@ -8,7 +8,7 @@ export default function Hero() {
       className="relative pt-32 pb-20 md:pt-44 md:pb-28 overflow-hidden"
     >
       <div className="absolute inset-0 grid-bg opacity-60 [mask-image:radial-gradient(ellipse_at_top,black_30%,transparent_75%)]" />
-      <div className="pointer-events-none absolute -top-32 left-1/2 -translate-x-1/2 h-[520px] w-[900px] rounded-full bg-accent opacity-[0.08] blur-[120px]" />
+      <div className="pointer-events-none  absolute -top-32 left-1/2 -translate-x-1/2 h-[520px] w-[900px] rounded-full bg-accent opacity-[0.08] blur-[120px]" />
       <div className="grain-overlay absolute inset-0" />
 
       <div className="relative mx-auto max-w-7xl px-6 md:px-10">
